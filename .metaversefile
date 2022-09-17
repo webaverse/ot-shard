@@ -7,8 +7,8 @@
       "key": "wear",
       "value": {
         "boneAttachment": "leftHand",
-        "position": [0, 0, 0],
-        "quaternion": [0.4999999999999999, -0.5, -0.5, 0.5000000000000001]
+        "position": [-0.07, -0.05, 0],
+        "quaternion": [0.7071067811865475, 0, 0, 0.7071067811865476]
       }
     },
     {
@@ -16,8 +16,8 @@
       "value": {
         "animation": "magic",
         "boneAttachment": "leftHand",
-        "position": [0, 0, 0],
-        "quaternion": [0.4999999999999999, -0.5, -0.5, 0.5000000000000001],
+        "position": [-0.07, -0.05, 0],
+        "quaternion": [0.7071067811865475, 0, 0, 0.7071067811865476],
         "scale": [1, 1, 1]
       }
     }
